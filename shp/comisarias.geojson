@@ -1,0 +1,6059 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-10T22:30:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7448091",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Jicarmarca",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9438656,
+          -11.9805232
+        ]
+      },
+      "id": "relation/7448091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70650385",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Sol de Oro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0638471,
+          -11.9976104
+        ]
+      },
+      "id": "way/70650385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70803837",
+        "addr:city": "Carmen de La Legua-Reynoso",
+        "addr:neighbourhood": "Carmen de La Legua",
+        "addr:postcode": "07006",
+        "addr:state": "Callao",
+        "addr:street": "1º de Mayo",
+        "alt_name": "Comisaría de Carmen de La Legua",
+        "amenity": "police",
+        "barrier": "wall",
+        "name": "Comisaría de Carmen de la Legua - Reynoso",
+        "operator": "Policia Nacional del Perú",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0873037,
+          -12.039231
+        ]
+      },
+      "id": "way/70803837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75223311",
+        "addr:city": "Lima",
+        "addr:housenumber": "400",
+        "addr:street": "Avenida España",
+        "alt_name": "Prefectura de Lima",
+        "amenity": "police",
+        "email": "rplima.ceopol@policia.gob.pe",
+        "name": "Región Policial Lima",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0409965,
+          -12.0576043
+        ]
+      },
+      "id": "way/75223311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115750509",
+        "amenity": "police",
+        "name": "Comisaría PNP Santa Elizabeth",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0151118,
+          -11.9840743
+        ]
+      },
+      "id": "way/115750509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119441955",
+        "amenity": "police",
+        "name": "Comisaría PNP Canto Rey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.995964,
+          -11.9754524
+        ]
+      },
+      "id": "way/119441955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119752714",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Bayovar",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9916795,
+          -11.9522494
+        ]
+      },
+      "id": "way/119752714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161399768",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Borja",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9989349,
+          -12.1055507
+        ]
+      },
+      "id": "way/161399768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183453705",
+        "amenity": "police",
+        "name": "Comisaría PNP Zárate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0012924,
+          -12.0269295
+        ]
+      },
+      "id": "way/183453705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238501770",
+        "amenity": "police",
+        "building": "yes",
+        "state": "abandoned",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0989307,
+          -12.053412
+        ]
+      },
+      "id": "way/238501770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298242358",
+        "addr:postcode": "07021",
+        "addr:street": "Avenida Miguel Grau",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría la Punta",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15788,
+          -12.0683954
+        ]
+      },
+      "id": "way/298242358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298460386",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Palomino",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0725276,
+          -12.0601307
+        ]
+      },
+      "id": "way/298460386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307350814",
+        "amenity": "police",
+        "name": "Comisaría PNP San Martín de Porres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0557893,
+          -12.0255364
+        ]
+      },
+      "id": "way/307350814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307650990",
+        "addr:city": "Santa Clara",
+        "addr:postcode": "Lima 3",
+        "addr:street": "La Estrella",
+        "amenity": "police",
+        "name": "Comisaría PNP Santa Clara",
+        "operator": "MININTER",
+        "phone": "+511 356 0084",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8841868,
+          -12.0166092
+        ]
+      },
+      "id": "way/307650990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318181467",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de la Familia Villa El Salvador",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9384053,
+          -12.2126584
+        ]
+      },
+      "id": "way/318181467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318783371",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Ancón",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1693767,
+          -11.7758857
+        ]
+      },
+      "id": "way/318783371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318783827",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Vitarte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9195064,
+          -12.0261584
+        ]
+      },
+      "id": "way/318783827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318788561",
+        "addr:city": "Huaycán",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Huaycán",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8274772,
+          -12.01232
+        ]
+      },
+      "id": "way/318788561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318791236",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Salamanca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9887815,
+          -12.075666
+        ]
+      },
+      "id": "way/318791236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318792235",
+        "addr:city": "Barranco",
+        "addr:postcode": "15063",
+        "addr:state": "Lima",
+        "addr:street": "Avenida Prolongación General José de San Martín",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Barranco",
+        "phone": "+51 1 2471383",
+        "wheelchair": "limited",
+        "wheelchair:description": "Desde fuera se ve una rampa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022564,
+          -12.1463261
+        ]
+      },
+      "id": "way/318792235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318793605",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Breña",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0531094,
+          -12.067027
+        ]
+      },
+      "id": "way/318793605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318807571",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Carabayllo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0377958,
+          -11.854029
+        ]
+      },
+      "id": "way/318807571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318900106",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP El Progreso",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0157893,
+          -11.8746366
+        ]
+      },
+      "id": "way/318900106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318900292",
+        "addr:city": "Carabayllo",
+        "addr:neighbourhood": "Santa Isabel",
+        "addr:state": "Lima",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Santa Isabel",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0323367,
+          -11.9017948
+        ]
+      },
+      "id": "way/318900292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318907107",
+        "addr:city": "Cieneguilla",
+        "addr:housenumber": "104",
+        "addr:street": "Avenida Nueva Toledo",
+        "amenity": "police",
+        "barrier": "wall",
+        "contact:phone": "+511 4798626",
+        "name": "Comisaría de Cieneguilla",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8128615,
+          -12.1157391
+        ]
+      },
+      "id": "way/318907107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318949134",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de la familia Comas Collique",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0103792,
+          -11.9129766
+        ]
+      },
+      "id": "way/318949134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318949849",
+        "addr:housenumber": "6500",
+        "addr:street": "Metropolitana",
+        "alt_name": "Comisaría Infanta de Comas",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Santa Luzmila",
+        "phone": "+51 1 5361636",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0662845,
+          -11.9444057
+        ]
+      },
+      "id": "way/318949849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318950897",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Túpac Amaru",
+        "source": "Reconocimiento cartogáfico de campo por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0525662,
+          -11.9552324
+        ]
+      },
+      "id": "way/318950897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318951901",
+        "addr:city": "Comas",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP La Pascana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0458428,
+          -11.9349512
+        ]
+      },
+      "id": "way/318951901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318952708",
+        "addr:street": "Avenida Revolución",
+        "amenity": "police",
+        "name": "Comisaría PNP Comas Collique",
+        "source": "Reconocimiento cartogáfico de campo por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0161997,
+          -11.9130804
+        ]
+      },
+      "id": "way/318952708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318954668",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Universitaria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0599981,
+          -11.9474565
+        ]
+      },
+      "id": "way/318954668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318959257",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Chaclacayo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7653791,
+          -11.976986
+        ]
+      },
+      "id": "way/318959257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318961595",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Laderas de Villa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9576565,
+          -12.1907049
+        ]
+      },
+      "id": "way/318961595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318963040",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Villa Chorrillos",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0080373,
+          -12.1857271
+        ]
+      },
+      "id": "way/318963040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318964897",
+        "addr:street": "Avenida Defensores del Morro",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Chorrillos",
+        "source": "Kaart Ground Survey 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0234004,
+          -12.1703823
+        ]
+      },
+      "id": "way/318964897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318965716",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Chorrillos Mateo Pumacahua",
+        "source": "Reconocimiento cartográfico por Kaart 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9799462,
+          -12.1920177
+        ]
+      },
+      "id": "way/318965716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318966590",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Genaro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0205957,
+          -12.1940127
+        ]
+      },
+      "id": "way/318966590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318974835",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Villa Hermosa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9888105,
+          -12.0414494
+        ]
+      },
+      "id": "way/318974835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318978877",
+        "addr:city": "El Agustino",
+        "addr:postcode": "15006",
+        "addr:state": "Lima",
+        "addr:street": "Juan Hoyle Palacios",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP El Agustino",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9976401,
+          -12.0494792
+        ]
+      },
+      "id": "way/318978877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318987482",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "height": "6",
+        "name": "Comisaría PNP San Cayetano",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0078901,
+          -12.0567565
+        ]
+      },
+      "id": "way/318987482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318987726",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Cosme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0076753,
+          -12.0644224
+        ]
+      },
+      "id": "way/318987726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319018201",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de la familia Independencia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0508361,
+          -11.9918951
+        ]
+      },
+      "id": "way/319018201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319019041",
+        "amenity": "police",
+        "name": "Comisaría PNP Payet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04391,
+          -11.9718337
+        ]
+      },
+      "id": "way/319019041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319029634",
+        "addr:city": "Independencia",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Tahuantinsuyo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0489204,
+          -11.9806456
+        ]
+      },
+      "id": "way/319029634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319030929",
+        "addr:city": "Independencia",
+        "addr:street": "Maria Parado De Bellido",
+        "amenity": "police",
+        "height": "4.8",
+        "name": "Comisaría PNP Independencia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0546472,
+          -11.9962082
+        ]
+      },
+      "id": "way/319030929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319098935",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP La Unificada",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0491887,
+          -12.0136937
+        ]
+      },
+      "id": "way/319098935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319103082",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Jesús María",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0477185,
+          -12.0708826
+        ]
+      },
+      "id": "way/319103082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319106551",
+        "addr:street": "Canarias",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Santa Felicia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.955145,
+          -12.0724169
+        ]
+      },
+      "id": "way/319106551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319119324",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP La Molina",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9165797,
+          -12.0773365
+        ]
+      },
+      "id": "way/319119324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319126230",
+        "addr:city": "Lima",
+        "addr:housenumber": "1050",
+        "addr:street": "Jirón 3 de Febrero",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP La Victoria Apolo",
+        "phone": "+51 1 4327252",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0099445,
+          -12.0714149
+        ]
+      },
+      "id": "way/319126230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319139199",
+        "addr:city": "Lima",
+        "addr:housenumber": "1600",
+        "addr:street": "Avenida Jaime Bausate y Meza",
+        "amenity": "police",
+        "name": "Comisaría PNP La Victoria",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0255231,
+          -12.0633652
+        ]
+      },
+      "id": "way/319139199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319170627",
+        "addr:city": "Lima",
+        "addr:street": "Buenventura",
+        "alt_name": "Comisaría de mujeres",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de la familia Bertha Gonzales Posada Eyzaguirre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0342059,
+          -12.0578249
+        ]
+      },
+      "id": "way/319170627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319172987",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Mirones Alto",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.067486,
+          -12.0512123
+        ]
+      },
+      "id": "way/319172987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319307986",
+        "addr:city": "Lima",
+        "addr:street": "Buenventura",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Cotabambas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0341333,
+          -12.0580557
+        ]
+      },
+      "id": "way/319307986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319317829",
+        "addr:city": "Santa Beatriz",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Petit Thouars",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0352941,
+          -12.0688519
+        ]
+      },
+      "id": "way/319317829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319318618",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Unidad Vecinal Nº 3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0819589,
+          -12.0513857
+        ]
+      },
+      "id": "way/319318618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319321882",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Conde de la Vega",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0532014,
+          -12.0383551
+        ]
+      },
+      "id": "way/319321882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319323286",
+        "addr:street": "Jirón Callao",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría Monserrate",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0392485,
+          -12.0413644
+        ]
+      },
+      "id": "way/319323286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319328798",
+        "addr:city": "Lima",
+        "addr:housenumber": "1235",
+        "addr:street": "Avenida Alfonso Ugarte",
+        "amenity": "police",
+        "name": "Comisaría PNP Alfonso Ugarte",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0410719,
+          -12.0567652
+        ]
+      },
+      "id": "way/319328798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319331711",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Lince",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0271535,
+          -12.0833274
+        ]
+      },
+      "id": "way/319331711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319335083",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Laura Caller Iberico",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.078039,
+          -11.970573
+        ]
+      },
+      "id": "way/319335083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319335462",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Los Olivos Pro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0778376,
+          -11.9346387
+        ]
+      },
+      "id": "way/319335462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319336059",
+        "amenity": "police",
+        "name": "Comisaría PNP Lurigancho - Huachipa",
+        "operator": "Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9374069,
+          -12.0148434
+        ]
+      },
+      "id": "way/319336059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319338179",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Chosica",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6966965,
+          -11.938766
+        ]
+      },
+      "id": "way/319338179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319421589",
+        "addr:housenumber": "268",
+        "addr:street": "Jirón Moore",
+        "amenity": "police",
+        "building": "yes",
+        "email": "dirtur.ceopol@policia.gob.pe",
+        "name": "Dirección de Turismo",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRTUR PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0688712,
+          -12.0956855
+        ]
+      },
+      "id": "way/319421589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319423244",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Magdalena",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0731811,
+          -12.0878315
+        ]
+      },
+      "id": "way/319423244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319430998",
+        "addr:city": "Miraflores",
+        "addr:housenumber": "1180",
+        "addr:street": "Avenida de Tomás Marsano",
+        "amenity": "police",
+        "building": "public",
+        "height": "3",
+        "name": "Comisaría PNP San Antonio de Miraflores",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0108825,
+          -12.1149034
+        ]
+      },
+      "id": "way/319430998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319445359",
+        "addr:city": "Miraflores",
+        "addr:housenumber": "230",
+        "addr:street": "Calle General Vidal",
+        "amenity": "police",
+        "name": "Comisaría PNP Miraflores",
+        "opening_hours": "24/7",
+        "operator": "Policía Nacional del Perú",
+        "phone": "+511 4463018",
+        "source": "Reconocimiento cartográfico 2017 por Kaart.;mininter.gob.pe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0279365,
+          -12.1147749
+        ]
+      },
+      "id": "way/319445359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319473763",
+        "addr:city": "Lima",
+        "addr:postcode": "15594",
+        "addr:street": "Avenida Manchay",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Manchay",
+        "opening_hours": "24/7",
+        "phone": "+511 3455663",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.869781,
+          -12.1161847
+        ]
+      },
+      "id": "way/319473763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319479359",
+        "addr:street": "Avenida Lima",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Pucusana",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7963989,
+          -12.4826499
+        ]
+      },
+      "id": "way/319479359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319479991",
+        "amenity": "police",
+        "name": "Comisaría PNP Pueblo Libre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0654186,
+          -12.0770404
+        ]
+      },
+      "id": "way/319479991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319481153",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Zapallal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1177263,
+          -11.8278696
+        ]
+      },
+      "id": "way/319481153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319483701",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Puente Piedra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0778079,
+          -11.8661978
+        ]
+      },
+      "id": "way/319483701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319484341",
+        "addr:district": "Puente Piedra",
+        "addr:street": "Avenida Las Acacias",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP La Ensenada",
+        "operator": "Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0941738,
+          -11.9361093
+        ]
+      },
+      "id": "way/319484341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319488480",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Punta Negra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7957121,
+          -12.3641449
+        ]
+      },
+      "id": "way/319488480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319489761",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Piedra Liza",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177567,
+          -12.0397065
+        ]
+      },
+      "id": "way/319489761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319490322",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Rímac",
+        "phone": "+51 1 4810754",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0278982,
+          -12.0396895
+        ]
+      },
+      "id": "way/319490322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319492070",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP El Manzano",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0300204,
+          -12.0283703
+        ]
+      },
+      "id": "way/319492070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319494646",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Rímac Ciudad y Campo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0279723,
+          -12.0242401
+        ]
+      },
+      "id": "way/319494646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319498723",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Bartolo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7774642,
+          -12.3874943
+        ]
+      },
+      "id": "way/319498723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319498954",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de protección de carreteras San Bartolo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7776378,
+          -12.387306
+        ]
+      },
+      "id": "way/319498954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319499542",
+        "addr:street": "Jirón Alfredo Galeón",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Chacarilla del Estanque",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9832942,
+          -12.1083471
+        ]
+      },
+      "id": "way/319499542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319575400",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Isidro",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032258,
+          -12.0950971
+        ]
+      },
+      "id": "way/319575400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319579618",
+        "amenity": "police",
+        "barrier": "wall",
+        "name": "Comisaría PNP de la familia Canto Rey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9957509,
+          -11.9757602
+        ]
+      },
+      "id": "way/319579618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319587483",
+        "addr:city": "San Juan de Lurigancho",
+        "addr:street": "Jirón Canto Rodado",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP La Huayrona",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0068816,
+          -11.9939682
+        ]
+      },
+      "id": "way/319587483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319591407",
+        "amenity": "police",
+        "name": "Comisaría PNP San Juan de Lurigancho Mariscal Cáceres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9808249,
+          -11.9492964
+        ]
+      },
+      "id": "way/319591407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319601552",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP 10 de Octubre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9883825,
+          -11.9445418
+        ]
+      },
+      "id": "way/319601552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319630403",
+        "addr:street": "Avenida Edilberto Ramos",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Pamplona Alta II",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9578358,
+          -12.1312059
+        ]
+      },
+      "id": "way/319630403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319630723",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de La Mujer San Juan de Miraflores",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9663547,
+          -12.1665983
+        ]
+      },
+      "id": "way/319630723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319633630",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Luis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9992931,
+          -12.0730767
+        ]
+      },
+      "id": "way/319633630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319635994",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Yerbateros",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.997334,
+          -12.0647346
+        ]
+      },
+      "id": "way/319635994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319637832",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Barboncito",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0701028,
+          -12.0308691
+        ]
+      },
+      "id": "way/319637832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319639890",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Condevilla Señor",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0854313,
+          -12.0204279
+        ]
+      },
+      "id": "way/319639890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319641192",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Miguel Maranga",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0928105,
+          -12.0696442
+        ]
+      },
+      "id": "way/319641192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319645366",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Miguel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0878704,
+          -12.0894964
+        ]
+      },
+      "id": "way/319645366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319647076",
+        "addr:city": "Santa Anita",
+        "addr:street": "Ciro Alegria",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Santa Anita",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9765723,
+          -12.0447848
+        ]
+      },
+      "id": "way/319647076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319712425",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP de protección de carreteras Santa Rosa",
+        "operator": "Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1479715,
+          -11.7925187
+        ]
+      },
+      "id": "way/319712425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319712446",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Santa Rosa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.17091,
+          -11.7966525
+        ]
+      },
+      "id": "way/319712446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319715061",
+        "addr:street": "Avenida Manuel Olguin",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Comisaría PNP Monterrico",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9735113,
+          -12.0947842
+        ]
+      },
+      "id": "way/319715061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319716309",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Santiago de Surco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0030978,
+          -12.1453911
+        ]
+      },
+      "id": "way/319716309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319719907",
+        "addr:city": "Chorrillos",
+        "addr:street": "Jirón Las Gaviotas",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Comisaría PNP Sagitario",
+        "source": "Reconocimiento cartográfico por Kaart 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9967495,
+          -12.1648931
+        ]
+      },
+      "id": "way/319719907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319722008",
+        "amenity": "police",
+        "building": "public",
+        "height": "5",
+        "name": "Comisaría PNP Surquillo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0223016,
+          -12.1186123
+        ]
+      },
+      "id": "way/319722008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319723919",
+        "amenity": "police",
+        "landuse": "residential",
+        "name": "Comisaría PNP Villa El Salvador",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9379392,
+          -12.2129603
+        ]
+      },
+      "id": "way/319723919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319726292",
+        "addr:city": "Villa El Salvador",
+        "amenity": "police",
+        "landuse": "residential",
+        "name": "Comisaría PNP Urbanización Pachacámac",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9230434,
+          -12.2300848
+        ]
+      },
+      "id": "way/319726292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319736547",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Francisco Tablada de Lurín",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.928083,
+          -12.2001303
+        ]
+      },
+      "id": "way/319736547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319739123",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Villa María del Triunfo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9476786,
+          -12.165941
+        ]
+      },
+      "id": "way/319739123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319742112",
+        "addr:city": "Villa María del Triunfo",
+        "addr:housenumber": "300",
+        "addr:street": "Avenida Lima",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP José Galvez",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9065189,
+          -12.20775
+        ]
+      },
+      "id": "way/319742112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319748958",
+        "addr:city": "Villa María del Triunfo",
+        "addr:street": "Jirón Jorge Chavez",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP José Carlos Mariátegui",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.950317,
+          -12.1495411
+        ]
+      },
+      "id": "way/319748958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340223380",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9978402,
+          -11.9573664
+        ]
+      },
+      "id": "way/340223380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375577638",
+        "amenity": "police",
+        "name": "Divincri - La Molina",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8913384,
+          -12.0866185
+        ]
+      },
+      "id": "way/375577638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384895062",
+        "addr:housenumber": "253",
+        "addr:street": "Avenida Saenz Peña",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría La Familia Callao",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1453422,
+          -12.0611174
+        ]
+      },
+      "id": "way/384895062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/399804116",
+        "amenity": "police",
+        "name": "Policía Canina",
+        "operator": "Policía Nacional del Perú",
+        "short_name": "DEPPOLCAN",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0226488,
+          -12.0400316
+        ]
+      },
+      "id": "way/399804116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406037578",
+        "addr:city": "Miraflores",
+        "addr:housenumber": "5200",
+        "addr:postcode": "15074",
+        "addr:street": "Avenida Arequipa",
+        "amenity": "police",
+        "building": "yes",
+        "height": "15",
+        "name": "Seguridad ciudadana",
+        "operator": "Municipalidad de Miraflores",
+        "website": "https://www.miraflores.gob.pe/_contenTempl1.php?idcontenido=9528",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0289039,
+          -12.1180185
+        ]
+      },
+      "id": "way/406037578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/413025636",
+        "addr:city": "Cercado de Lima",
+        "addr:housenumber": "323",
+        "addr:street": "Avenida España",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Central Operativa de Investigación Policial",
+        "official_name": "Central Operativa de Investigación Policial CAP PNP Alcides Vigo Hurtado",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0398084,
+          -12.0583773
+        ]
+      },
+      "id": "way/413025636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/414734307",
+        "addr:city": "La Perla",
+        "addr:street": "Plaza Guardia Chalaca",
+        "amenity": "police",
+        "building": "yes",
+        "name": "División de patrullaje a pie",
+        "operator": "Policía Nacional del Perú",
+        "source": "Actualizaciones en Peru. Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1334896,
+          -12.0688035
+        ]
+      },
+      "id": "way/414734307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419915126",
+        "addr:street": "Avenida El Sol",
+        "amenity": "police",
+        "building": "yes",
+        "name": "DIVINCRI - Chorrillos - Barranco",
+        "source": "Reconocimiento cartográfico por Kaart 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9923843,
+          -12.1806748
+        ]
+      },
+      "id": "way/419915126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426608672",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Villa Alejandro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9076418,
+          -12.2339053
+        ]
+      },
+      "id": "way/426608672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430458076",
+        "addr:city": "Barranco",
+        "addr:street": "Jirón Manuel de la Fuente Chavez",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Base Serenazgo de Barranco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0187866,
+          -12.153368
+        ]
+      },
+      "id": "way/430458076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434800848",
+        "addr:city": "Lima",
+        "addr:street": "Avenida Alfredo Benavides",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Miraflores Seguridad Ciudadana",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00387,
+          -12.1287289
+        ]
+      },
+      "id": "way/434800848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435393802",
+        "addr:city": "Lima",
+        "addr:postcode": "051",
+        "addr:street": "Jirón Carhuaz",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría Chacra Colorada",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0509514,
+          -12.0543334
+        ]
+      },
+      "id": "way/435393802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435551147",
+        "addr:city": "San Isidro",
+        "addr:street": "Avenida Arequipa",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policía Nacional",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0325845,
+          -12.0950356
+        ]
+      },
+      "id": "way/435551147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435685260",
+        "addr:street": "Avenida Abancay",
+        "amenity": "police",
+        "building": "public",
+        "height": "9",
+        "name": "Batallon de Asalto",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0258479,
+          -12.0453686
+        ]
+      },
+      "id": "way/435685260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435875351",
+        "addr:street": "Avenida Universitaria",
+        "amenity": "police",
+        "building": "yes",
+        "layer": "1",
+        "name": "Serenazgo Metropolitano Sin Fronteras",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0778188,
+          -12.0682765
+        ]
+      },
+      "id": "way/435875351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436268471",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Pala",
+        "phone": "+51 1 7362516",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1221019,
+          -12.068307
+        ]
+      },
+      "id": "way/436268471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436280887",
+        "amenity": "police",
+        "building": "yes",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0967328,
+          -12.0574478
+        ]
+      },
+      "id": "way/436280887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436284958",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría de Bellavista",
+        "name:en": "Bellavista Police Station",
+        "source": "Actualizaciones en Peru. Reconocimiento cartográfico por KG 2016",
+        "wheelchair": "no",
+        "wheelchair:description": "Dos gradas a la entrada sin rampa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1253057,
+          -12.0612644
+        ]
+      },
+      "id": "way/436284958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436322424",
+        "addr:city": "Ventanilla",
+        "addr:housenumber": "136",
+        "addr:street": "Avenida Pedro Beltrán",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Comisaría Distrital de Ventanilla",
+        "operator": "PNP",
+        "phone": "+51 1 553 4410",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.126117,
+          -11.87287
+        ]
+      },
+      "id": "way/436322424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436460190",
+        "amenity": "police",
+        "building": "yes",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0054511,
+          -12.1374656
+        ]
+      },
+      "id": "way/436460190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436565620",
+        "amenity": "police",
+        "building": "yes",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0001192,
+          -12.1365451
+        ]
+      },
+      "id": "way/436565620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436581955",
+        "addr:street": "Avenida Mariscal Ramón Castilla",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Centro de Atención Inmediata",
+        "phone": "+51 1 441 5555",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0082379,
+          -12.1347748
+        ]
+      },
+      "id": "way/436581955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436779204",
+        "addr:street": "Avenida Guardia Chalaca",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Nacional",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1383279,
+          -12.0527576
+        ]
+      },
+      "id": "way/436779204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436787184",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gobierno Regional del Callao PnP Complejo Policial Ciudad del Pescador",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.105451,
+          -12.0588883
+        ]
+      },
+      "id": "way/436787184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436899388",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Puesto de Auxilio Rápido Metropolitano PARMET",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0238075,
+          -12.1197728
+        ]
+      },
+      "id": "way/436899388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436927425",
+        "addr:street": "Calle Godofredo García",
+        "amenity": "police",
+        "building": "yes",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05518,
+          -12.1070546
+        ]
+      },
+      "id": "way/436927425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436968739",
+        "addr:city": "Ancon",
+        "addr:street": "Avenida Los Arquitectos",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Serenazgo",
+        "phone": "+51 1 7527659;+51 1 7527686",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1381774,
+          -11.8162183
+        ]
+      },
+      "id": "way/436968739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437332810",
+        "amenity": "police",
+        "name": "DIVINCRI S.J.M.",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9755815,
+          -12.1482964
+        ]
+      },
+      "id": "way/437332810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437344449",
+        "Source": "Actualizaciones en Peru. Reconocimiento cartográfico por KG 2016",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Seguridad Ciudana Surquillo",
+        "operator": "PNP",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0253941,
+          -12.1138462
+        ]
+      },
+      "id": "way/437344449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437496528",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Serenazgo de Lima",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0262736,
+          -12.0572339
+        ]
+      },
+      "id": "way/437496528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437508566",
+        "Source": "Actualizaciones en Peru. Reconocimiento cartográfico por KG 2016",
+        "amenity": "police",
+        "building": "yes",
+        "name": "San Isidro Serenazgo",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0190875,
+          -12.0907772
+        ]
+      },
+      "id": "way/437508566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437657902",
+        "addr:street": "Calle 16",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Nacional del Peru",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9592653,
+          -12.1694762
+        ]
+      },
+      "id": "way/437657902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437677998",
+        "addr:city": "San Isidro",
+        "addr:housenumber": "550",
+        "addr:street": "Avenida Andrés Aramburú",
+        "amenity": "police",
+        "name": "Complejo PNP Walter Jesús Rosales León",
+        "name:es": "Complejo PNP Walter Jesús Rosales Leon",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0249136,
+          -12.1030165
+        ]
+      },
+      "id": "way/437677998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437789658",
+        "addr:street": "Calle Los Cisnes",
+        "amenity": "police",
+        "building": "yes",
+        "email": "ceopol@dirandro.pnp.gob.pe",
+        "name": "Dirección Antidrogas PNP",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRANDRO PNP",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0236598,
+          -12.1021382
+        ]
+      },
+      "id": "way/437789658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437802568",
+        "addr:street": "Los Geranios",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Nacional Escuadron de Emergencia",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9518936,
+          -12.1674713
+        ]
+      },
+      "id": "way/437802568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437869120",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policía Nacional del Perú DIRINCRI",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "source": "Reconocimiento cartográfico por KG 2016.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9955487,
+          -11.9747027
+        ]
+      },
+      "id": "way/437869120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437883950",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP San Juan de Miraflores",
+        "source": "Reconocimiento cartográfico por KG 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9753641,
+          -12.1579946
+        ]
+      },
+      "id": "way/437883950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438046585",
+        "addr:city": "Lima",
+        "addr:street": "Avenida 28 de Julio",
+        "amenity": "police",
+        "building": "public",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0200402,
+          -12.0621101
+        ]
+      },
+      "id": "way/438046585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438046586",
+        "addr:city": "Lima",
+        "addr:street": "Avenida 28 de Julio",
+        "amenity": "police",
+        "building": "public",
+        "name": "Policia de Transito Lima Sur 1",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0203372,
+          -12.0622914
+        ]
+      },
+      "id": "way/438046586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438080051",
+        "addr:city": "La Victoria",
+        "addr:street": "Avenida 28 de Julio",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Nacional del Peru",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0139054,
+          -12.0613364
+        ]
+      },
+      "id": "way/438080051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438599298",
+        "addr:street": "Avenida De Los Incas",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Municipalidad Distrital de Lurín",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9121301,
+          -12.238363
+        ]
+      },
+      "id": "way/438599298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439050670",
+        "addr:street": "Avenida Manuel Olguin",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "OCN Interpol",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9735276,
+          -12.0950012
+        ]
+      },
+      "id": "way/439050670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439227482",
+        "addr:city": "Callao",
+        "addr:postcode": "01",
+        "addr:street": "Prolongación Cajamarca",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría Bocanegra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0957125,
+          -12.0242414
+        ]
+      },
+      "id": "way/439227482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439811919",
+        "addr:city": "El Agustino",
+        "addr:postcode": "15006",
+        "addr:street": "Óvalo Riva Agüero",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Torre de Alerta El Agustino",
+        "phone": "+51 1 3133777",
+        "website": "http://mdea.gob.pe/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9978574,
+          -12.0400281
+        ]
+      },
+      "id": "way/439811919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440092606",
+        "addr:street": "Calle Brasil",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Central de Operaciones de Seguridad Ciudadana",
+        "source": "Reconocimiento cartografico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.696183,
+          -11.9398514
+        ]
+      },
+      "id": "way/440092606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440110821",
+        "addr:city": "chosica",
+        "addr:street": "Avenida Lima Norte",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Serenazgo",
+        "source": "Reconocimiento cartografico de campo 2016 por KG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6846817,
+          -11.9247671
+        ]
+      },
+      "id": "way/440110821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440695580",
+        "addr:housenumber": "191",
+        "addr:street": "Los Cibeles",
+        "alt_name": "Los Cibeles",
+        "amenity": "police",
+        "name": "Complejo Policial Cmdte. PNP Juan Benites Luna",
+        "note": "Según http://policiaperu.tumblr.com/post/144703208606/xxxii-aniversario-de-la-inmolaci%C3%B3n-del-m%C3%A1rtir",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032413,
+          -12.035083
+        ]
+      },
+      "id": "way/440695580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441049944",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0507568,
+          -12.0441395
+        ]
+      },
+      "id": "way/441049944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441687105",
+        "amenity": "police",
+        "building": "yes",
+        "name": "DIVINCRI",
+        "operator": "Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690613,
+          -11.9764256
+        ]
+      },
+      "id": "way/441687105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442105179",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría PNP Pamplona I",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9661797,
+          -12.1481558
+        ]
+      },
+      "id": "way/442105179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/443495011",
+        "addr:city": "La Victoria",
+        "addr:housenumber": "1109",
+        "addr:street": "Prolongación Huamanga",
+        "amenity": "police",
+        "email": "dirttsv.ceopol@policia.gob.pe",
+        "name": "Dirección de Tránsito, Transporte y Seguridad Vial",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRTTSV PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0201298,
+          -12.0626326
+        ]
+      },
+      "id": "way/443495011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/443652071",
+        "amenity": "police",
+        "building": "public",
+        "building:levels": "4",
+        "height": "12",
+        "name": "Comisaría PNP de la familia El Agustino",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0111962,
+          -12.0516147
+        ]
+      },
+      "id": "way/443652071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446225044",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Centro de obervación Serenazgo Surco",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9913507,
+          -12.1483237
+        ]
+      },
+      "id": "way/446225044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446436988",
+        "addr:street": "Avenida Ramón Vargas Machuca",
+        "amenity": "police",
+        "name": "Central Operativa de la Policía de Carreteras",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9734305,
+          -12.1658739
+        ]
+      },
+      "id": "way/446436988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/454376511",
+        "amenity": "police",
+        "building": "yes",
+        "name": "DIVINCRI - Comisario de Lurín",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8981356,
+          -12.2530718
+        ]
+      },
+      "id": "way/454376511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/469737693",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14721,
+          -12.0596028
+        ]
+      },
+      "id": "way/469737693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474404835",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Seguridad Ciudadana",
+        "operator": "Serenazgo de Comas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0440847,
+          -11.9309048
+        ]
+      },
+      "id": "way/474404835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495775877",
+        "addr:city": "Jesús María",
+        "addr:housenumber": "155",
+        "addr:street": "Avenida Afranio de Mello Franco",
+        "amenity": "police",
+        "building": "yes",
+        "email": "dirbap.ceopol@policia.gob.pe",
+        "name": "Dirección de Bienestar y Apoyo al Policía",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRBAP PNP",
+        "website": "https://www.pnp.gob.pe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0520864,
+          -12.0743292
+        ]
+      },
+      "id": "way/495775877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507687834",
+        "addr:street": "Marcos Puente Llanos",
+        "alt_name": "Fundo Barbadillo",
+        "amenity": "police",
+        "email": "diropesp.ceopol@policia.gob.pe",
+        "name": "Dirección de Operaciones Especiales de la PNP",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIROPESP PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9116138,
+          -12.0400389
+        ]
+      },
+      "id": "way/507687834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507687837",
+        "addr:street": "Marcos Puente Llanos",
+        "amenity": "police",
+        "name": "Cuartel Coronel PNP Marco Puente Llanos",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.914164,
+          -12.0391652
+        ]
+      },
+      "id": "way/507687837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511806555",
+        "addr:street": "Circuito de Playas",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Unidad de Salvataje PNP",
+        "source": "Kaart Ground Survey 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0281207,
+          -12.1405811
+        ]
+      },
+      "id": "way/511806555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511851551",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Centro de Observaión y Videovigilancia",
+        "source": "Reconocimiento cartográfico por Kaart 2017",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0024078,
+          -12.1427651
+        ]
+      },
+      "id": "way/511851551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513978215",
+        "amenity": "police",
+        "barrier": "wall",
+        "name": "Comisaría PNP San Antonio Jicamarca",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9615787,
+          -11.9254826
+        ]
+      },
+      "id": "way/513978215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522343719",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Central de seguridad integral",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.955813,
+          -12.0715354
+        ]
+      },
+      "id": "way/522343719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/537497593",
+        "addr:city": "La Punta",
+        "addr:postcode": "07021",
+        "addr:state": "Callao",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1639253,
+          -12.0747234
+        ]
+      },
+      "id": "way/537497593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544235966",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9918709,
+          -12.1332144
+        ]
+      },
+      "id": "way/544235966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551294136",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría Sarita Colonia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1343684,
+          -12.0237127
+        ]
+      },
+      "id": "way/551294136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/561370572",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9941759,
+          -12.1302891
+        ]
+      },
+      "id": "way/561370572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/563664314",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9646115,
+          -12.0501504
+        ]
+      },
+      "id": "way/563664314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/584320936",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta Municipal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0386672,
+          -11.9569284
+        ]
+      },
+      "id": "way/584320936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591381647",
+        "addr:city": "Callao",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría de Oquendo",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.123092,
+          -11.9785916
+        ]
+      },
+      "id": "way/591381647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591420113",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Puesto de Auxilio Rapido",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9859894,
+          -12.0160733
+        ]
+      },
+      "id": "way/591420113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/614086196",
+        "addr:city": "Surquillo",
+        "addr:street": "Avenida Angamos Este",
+        "amenity": "police",
+        "building": "public",
+        "height": "5",
+        "name": "Central de videovigilancia Surquillo",
+        "opening_hours": "24/7",
+        "operator": "Municipalidad de Surquillo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011673,
+          -12.112784
+        ]
+      },
+      "id": "way/614086196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617092869",
+        "amenity": "police",
+        "name": "Comisaría de La Perla",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1261659,
+          -12.0701617
+        ]
+      },
+      "id": "way/617092869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/622552389",
+        "addr:city": "Pachacámac",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Puesto Policial Quebrada Retamal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8749861,
+          -12.1528566
+        ]
+      },
+      "id": "way/622552389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/655102891",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Servicio de auxilio rápido",
+        "operator": "Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0587371,
+          -11.9804291
+        ]
+      },
+      "id": "way/655102891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684702685",
+        "addr:city": "San Bartolo",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Central de Serenazgo San Bartolo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7807332,
+          -12.3889525
+        ]
+      },
+      "id": "way/684702685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/686316304",
+        "addr:city": "Callao",
+        "addr:street": "Prolongación Centenario",
+        "amenity": "police",
+        "name": "Centro Nacional de Estudios Criminológicos y Penitenciarios",
+        "nohousenumber": "yes",
+        "operator": "INPE",
+        "short_name": "CENECP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1379058,
+          -12.017503
+        ]
+      },
+      "id": "way/686316304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700427587",
+        "addr:street": "Jirón San Pedro",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Serenazgo puesto de auxilio rápido",
+        "opening_hours": "24/7",
+        "operator": "Municipalidad de Villa María del Triunfo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9202849,
+          -12.1673332
+        ]
+      },
+      "id": "way/700427587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/745168932",
+        "amenity": "police",
+        "name": "Complejo Policial De Tránsito Mayor Pnp José Manuel Pajares Cheng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0444554,
+          -12.0397594
+        ]
+      },
+      "id": "way/745168932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/789725461",
+        "addr:city": "San Juan de Lurigancho",
+        "addr:neighbourhood": "Caja de Agua",
+        "addr:postcode": "15404",
+        "addr:street": "Jirón Moquegua",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría Caja de Agua",
+        "name:en": "Caja de Agua Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0150518,
+          -12.0271872
+        ]
+      },
+      "id": "way/789725461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803214715",
+        "amenity": "police",
+        "height": "5",
+        "name": "Unidad de Emergencia SUR 1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0187479,
+          -12.1091258
+        ]
+      },
+      "id": "way/803214715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/805284122",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "height": "6",
+        "name": "Comisaría PNP Santoyo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0086657,
+          -12.0510636
+        ]
+      },
+      "id": "way/805284122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/828914502",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9944542,
+          -12.0735337
+        ]
+      },
+      "id": "way/828914502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831356203",
+        "amenity": "police",
+        "name": "Policía Nacional del Perú",
+        "name:es": "Policía Nacional del Perú",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0057729,
+          -11.9807426
+        ]
+      },
+      "id": "way/831356203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833611330",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899942,
+          -12.079804
+        ]
+      },
+      "id": "way/833611330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833673746",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Grupo de Operaciones Especiales",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9951961,
+          -12.0678519
+        ]
+      },
+      "id": "way/833673746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835383105",
+        "amenity": "police",
+        "name": "Comisaría Playa Rímac",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0969721,
+          -12.0374938
+        ]
+      },
+      "id": "way/835383105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835906552",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9960288,
+          -12.0788773
+        ]
+      },
+      "id": "way/835906552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/836873261",
+        "amenity": "police",
+        "name": "Base de Serenazgo de San Luis",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9953585,
+          -12.0682234
+        ]
+      },
+      "id": "way/836873261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/836873263",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta De Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9969148,
+          -12.0639823
+        ]
+      },
+      "id": "way/836873263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837280795",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9973413,
+          -12.0818635
+        ]
+      },
+      "id": "way/837280795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837280796",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.999921,
+          -12.0788639
+        ]
+      },
+      "id": "way/837280796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837490589",
+        "amenity": "police",
+        "name": "Comisaría de Mi Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1231569,
+          -11.8544784
+        ]
+      },
+      "id": "way/837490589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842784263",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0005908,
+          -12.0717652
+        ]
+      },
+      "id": "way/842784263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842784264",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0051264,
+          -12.0735993
+        ]
+      },
+      "id": "way/842784264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/867596446",
+        "addr:housenumber": "647",
+        "addr:postcode": "051",
+        "addr:street": "Jirón Apurímac",
+        "alt_name": "Región Policial Callao",
+        "amenity": "police",
+        "description": "Base de escuadron verde, use, depandro y ayudantia",
+        "email": "rpcallao.ceopol@policia.gob.pe",
+        "name": "Complejo Policial Alipio Ponce Vasquez",
+        "opening_hours": "24/7",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1372259,
+          -12.0629179
+        ]
+      },
+      "id": "way/867596446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/893234647",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9439873,
+          -12.0566978
+        ]
+      },
+      "id": "way/893234647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/893575727",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9441738,
+          -12.0668309
+        ]
+      },
+      "id": "way/893575727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/940224805",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Puesto de Auxilio Rapido PNP Yerbateros",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9980118,
+          -12.0626852
+        ]
+      },
+      "id": "way/940224805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/957700085",
+        "addr:district": "San Miguel",
+        "addr:street": "Avenida Jóse de la Riva Agüero",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0822137,
+          -12.063154
+        ]
+      },
+      "id": "way/957700085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/958534726",
+        "amenity": "police",
+        "name": "DIVINCRI San Borja",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9842574,
+          -12.0896259
+        ]
+      },
+      "id": "way/958534726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/958547254",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9846978,
+          -12.0891721
+        ]
+      },
+      "id": "way/958547254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1036383559",
+        "amenity": "police",
+        "name": "Comisaria PNP Marquez",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1342022,
+          -11.9448227
+        ]
+      },
+      "id": "way/1036383559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1060173926",
+        "alt_name": "Dirección de Seguridad Aeroportuaria PNP",
+        "amenity": "police",
+        "name": "Comisaría PNP Aeropuerto",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1045174,
+          -12.0260768
+        ]
+      },
+      "id": "way/1060173926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083396168",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Base",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9553449,
+          -12.0351671
+        ]
+      },
+      "id": "way/1083396168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083396324",
+        "amenity": "police",
+        "name": "PNP Divisón de Transito - Lima Este",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9753901,
+          -12.0503369
+        ]
+      },
+      "id": "way/1083396324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1083401209",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Pampa las Flores",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9803002,
+          -12.0474774
+        ]
+      },
+      "id": "way/1083401209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087106699",
+        "amenity": "police",
+        "building": "yes",
+        "description": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.970944,
+          -12.0518201
+        ]
+      },
+      "id": "way/1087106699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087129855",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Venezuela",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9847216,
+          -12.044663
+        ]
+      },
+      "id": "way/1087129855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087129856",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Nocheto",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9844515,
+          -12.0463675
+        ]
+      },
+      "id": "way/1087129856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087136920",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Achirana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9800874,
+          -12.0507273
+        ]
+      },
+      "id": "way/1087136920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087138964",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Nogales",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9758047,
+          -12.0538211
+        ]
+      },
+      "id": "way/1087138964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087159247",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo - Parodi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9692577,
+          -12.0382309
+        ]
+      },
+      "id": "way/1087159247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087170875",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Caseta de Serenazgo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9595176,
+          -12.0356665
+        ]
+      },
+      "id": "way/1087170875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1088484221",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9961781,
+          -11.9973084
+        ]
+      },
+      "id": "way/1088484221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1099390506",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Modulo de Seguridad Unidad La Perla",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1254813,
+          -12.0689309
+        ]
+      },
+      "id": "way/1099390506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1101400740",
+        "addr:street": "2 de Marzo",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Comisaría PNP La Unificada",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0478461,
+          -12.0057914
+        ]
+      },
+      "id": "way/1101400740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132538802",
+        "addr:housenumber": "216",
+        "addr:street": "Calle Los Mogaburos",
+        "amenity": "police",
+        "email": "dircocor.dir@policia.gob.pe",
+        "name": "Dirección Contra la Corrupción",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRCOCOR PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0442658,
+          -12.0666378
+        ]
+      },
+      "id": "way/1132538802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132539963",
+        "addr:housenumber": "574",
+        "addr:street": "Avenida De los Ingenieros",
+        "amenity": "police",
+        "building": "yes",
+        "email": "dirpofis.ceopol@policia.gob.pe",
+        "name": "Dirección de Policía Fiscal",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRPOLFIS PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9728959,
+          -12.1278248
+        ]
+      },
+      "id": "way/1132539963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132546401",
+        "addr:housenumber": "1420",
+        "addr:street": "Avenida General Recavarren",
+        "amenity": "police",
+        "email": "dirnos.ceopol@policia.gob.pe",
+        "name": "Dirección Nacional de Orden y Seguridad",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRNOS PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0235798,
+          -12.1061407
+        ]
+      },
+      "id": "way/1132546401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132561679",
+        "addr:housenumber": "1131",
+        "addr:street": "Avenida Velasco Astete",
+        "amenity": "police",
+        "email": "dirseciu.ceopol@policia.gob.pe",
+        "name": "Dirección de Seguridad Ciudadana",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRSCPC PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9839032,
+          -12.1138974
+        ]
+      },
+      "id": "way/1132561679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132564637",
+        "addr:housenumber": "4898",
+        "addr:street": "Avenida Arequipa",
+        "alt_name": "Complejo PNP Enrique Torres Gonzales",
+        "amenity": "police",
+        "email": "dirsapol.dir@policia.gob.pe",
+        "name": "Dirección de Sanidad Policial",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRSAPOL PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0301279,
+          -12.1146559
+        ]
+      },
+      "id": "way/1132564637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132566851",
+        "addr:housenumber": "3300",
+        "addr:street": "Avenida Elmer Faucett",
+        "amenity": "police",
+        "email": "diravpol.ceopol@policia.gob.pe",
+        "name": "Dirección de Aviación Policial",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRAVPOL PNP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1049449,
+          -12.0282768
+        ]
+      },
+      "id": "way/1132566851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1134716162",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Alerta San Miguel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.085378,
+          -12.0827742
+        ]
+      },
+      "id": "way/1134716162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1184113689",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Destacamento de Protección de Carreteras Yangas",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9682662,
+          -11.7289291
+        ]
+      },
+      "id": "way/1184113689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1221783687",
+        "amenity": "police",
+        "name": "Departamento de Seguridad de Bancos Aguila Negra",
+        "opening_hours": "24/7",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9694014,
+          -12.0541564
+        ]
+      },
+      "id": "way/1221783687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847664097",
+        "amenity": "police",
+        "name": "Serenazgo de Carmen de la Legua Reynoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0983699,
+          -12.0450125
+        ]
+      },
+      "id": "node/1847664097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847664099",
+        "addr:city": "La Perla",
+        "addr:street": "Calle Capitan de Navio Emilio Carrillo",
+        "amenity": "police",
+        "name": "Serenazgo de La Perla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1079799,
+          -12.0657022
+        ]
+      },
+      "id": "node/1847664099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847664100",
+        "amenity": "police",
+        "name": "Serenazgo de Ventanilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1090189,
+          -11.8753743
+        ]
+      },
+      "id": "node/1847664100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847686641",
+        "amenity": "police",
+        "building": "yes",
+        "name": "DEMUNA Callao II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.100284,
+          -12.012646
+        ]
+      },
+      "id": "node/1847686641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2963508096",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0971796,
+          -12.0525346
+        ]
+      },
+      "id": "node/2963508096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3196468256",
+        "amenity": "police",
+        "name": "Serenazgo",
+        "operator": "PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9791135,
+          -12.1105113
+        ]
+      },
+      "id": "node/3196468256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3253937866",
+        "addr:city": "El Agustino",
+        "addr:street": "15 de Abril",
+        "amenity": "police",
+        "name": "Comisaría PNP San Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0028465,
+          -12.0599094
+        ]
+      },
+      "id": "node/3253937866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3259019072",
+        "amenity": "police",
+        "name": "Comisaría PNP Punta Hermosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.824492,
+          -12.3370718
+        ]
+      },
+      "id": "node/3259019072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978824353",
+        "amenity": "police",
+        "name": "Puesto de auxilio rápido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0572805,
+          -12.0282827
+        ]
+      },
+      "id": "node/3978824353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4035020926",
+        "addr:city": "Cercado de Lima",
+        "addr:housenumber": "862",
+        "addr:state": "Lima",
+        "addr:street": "Jirón Huallaga",
+        "amenity": "police",
+        "name": "Comisaría PNP San Andrés",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0235552,
+          -12.0511519
+        ]
+      },
+      "id": "node/4035020926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4138868505",
+        "addr:city": "La Victoria",
+        "addr:street": "Horacio Cachay Diaz",
+        "amenity": "police",
+        "name": "UNIRREUM DIREJANDRO PNP",
+        "opening_hours": "Mo-Sa 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0129977,
+          -12.0887654
+        ]
+      },
+      "id": "node/4138868505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4139051131",
+        "addr:city": "La Victoria",
+        "addr:street": "Jirón Andahuaylas",
+        "amenity": "police",
+        "name": "Radio Patrulla",
+        "source": "Reconocimiento cartográfico de campo 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0255455,
+          -12.0637643
+        ]
+      },
+      "id": "node/4139051131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4152317790",
+        "addr:city": "Santa Beatriz",
+        "amenity": "police",
+        "name": "UNILOG DIRANDRO",
+        "operator": "Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0372349,
+          -12.0730467
+        ]
+      },
+      "id": "node/4152317790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4154554391",
+        "addr:city": "Breña",
+        "addr:street": "Jirón Restauracion",
+        "amenity": "police",
+        "name": "DIRANDRO PNP",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "website": "http://www.dirandro.pnp.gob.pe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0516344,
+          -12.0618067
+        ]
+      },
+      "id": "node/4154554391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4159187995",
+        "addr:street": "Los Cibeles",
+        "amenity": "police",
+        "name": "Centro policial Bienestar",
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "operator": "Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0316293,
+          -12.0343764
+        ]
+      },
+      "id": "node/4159187995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4159349590",
+        "amenity": "police",
+        "name": "Dirección de Seguridad de Estado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0293211,
+          -12.0974732
+        ]
+      },
+      "id": "node/4159349590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4208833389",
+        "amenity": "police",
+        "name": "C.I.E. P.N.P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0289589,
+          -11.9144141
+        ]
+      },
+      "id": "node/4208833389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220770993",
+        "amenity": "police",
+        "name": "Comisaría de Dulanto",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1046701,
+          -12.0439324
+        ]
+      },
+      "id": "node/4220770993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281349671",
+        "amenity": "police",
+        "name": "Comisaría Santa María del Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7730033,
+          -12.3997156
+        ]
+      },
+      "id": "node/4281349671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4301413611",
+        "amenity": "police",
+        "name": "Comisaría J. Ingunza V.",
+        "source": "Reconocimiento cartográfico por KG 2016."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0965055,
+          -12.0144401
+        ]
+      },
+      "id": "node/4301413611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4318884465",
+        "amenity": "police",
+        "name": "Serenazgo",
+        "source": "Actualizaciones en Peru. Reconocimiento cartográfico 2016 por KG."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.052194,
+          -12.109977
+        ]
+      },
+      "id": "node/4318884465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325295697",
+        "addr:city": "San Juan de Lurigancho",
+        "addr:street": "San Hilaron Este",
+        "amenity": "police",
+        "name": "DIVINCRI SJL II",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0083669,
+          -11.9923507
+        ]
+      },
+      "id": "node/4325295697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327127535",
+        "amenity": "police",
+        "name": "Comisaria Villa la Reyes",
+        "source": "Kaart Ground Survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1219903,
+          -11.8307931
+        ]
+      },
+      "id": "node/4327127535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358170947",
+        "addr:street": "Avenida El Sol",
+        "amenity": "police",
+        "name": "Policía de Tránsito",
+        "source": "Reconocimiento cartográfico 2017 por Kaart."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9924727,
+          -12.1809967
+        ]
+      },
+      "id": "node/4358170947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358170948",
+        "addr:street": "Avenida El Sol",
+        "amenity": "police",
+        "name": "DIRINCRI - DIROVE PNP DEIROVE - Sur",
+        "source": "Reconocimiento cartográfico 2017 por Kaart."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9925965,
+          -12.1809611
+        ]
+      },
+      "id": "node/4358170948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382537624",
+        "addr:city": "La Victoria",
+        "addr:street": "Parque Union Panamericana",
+        "amenity": "police",
+        "name": "puesto de control",
+        "operator": "Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0215448,
+          -12.077603
+        ]
+      },
+      "id": "node/4382537624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384740078",
+        "amenity": "police",
+        "name": "DIRPROC",
+        "operator": "Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0281925,
+          -12.0428241
+        ]
+      },
+      "id": "node/4384740078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4388561322",
+        "amenity": "police",
+        "name": "Puesto de auxilio",
+        "operator": "Serenazgo de Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0089204,
+          -12.0587134
+        ]
+      },
+      "id": "node/4388561322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396290287",
+        "amenity": "police",
+        "name": "DIRANDRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1472605,
+          -11.7922753
+        ]
+      },
+      "id": "node/4396290287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407302039",
+        "amenity": "police",
+        "name": "Comisaría Flor de Amancaes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0333708,
+          -12.0102215
+        ]
+      },
+      "id": "node/4407302039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4408240090",
+        "addr:street": "Calle Bernard de Balaguer",
+        "amenity": "police",
+        "name": "Serenazgo Chosica",
+        "name:es": "Serenazgo Chosica",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8317091,
+          -11.9848739
+        ]
+      },
+      "id": "node/4408240090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4410326050",
+        "addr:city": "Barrios Altos",
+        "addr:street": "Conchucos",
+        "amenity": "police",
+        "name": "DIPROVE",
+        "operator": "Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0116944,
+          -12.0489076
+        ]
+      },
+      "id": "node/4410326050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418351013",
+        "amenity": "police",
+        "name": "Dirección de Medio Ambiente PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1180334,
+          -11.9424233
+        ]
+      },
+      "id": "node/4418351013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422263613",
+        "addr:city": "Rímac",
+        "addr:street": "Las Palmeras",
+        "amenity": "police",
+        "name": "DIVINCRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0412965,
+          -12.0368661
+        ]
+      },
+      "id": "node/4422263613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423758389",
+        "addr:street": "Calle Atahualpa",
+        "amenity": "police",
+        "name": "Serenazgo Chosica",
+        "name:es": "Serenazgo Chosica",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8187079,
+          -11.9891906
+        ]
+      },
+      "id": "node/4423758389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4438429883",
+        "addr:city": "Santa Marina",
+        "addr:street": "Avenida Supe",
+        "amenity": "police",
+        "name": "Complejo policial operativo de Santa Marina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1291023,
+          -12.0546017
+        ]
+      },
+      "id": "node/4438429883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442893991",
+        "addr:city": "San Juan de Lurigancho",
+        "addr:street": "Avenida Próceres de la Independencia",
+        "amenity": "police",
+        "name": "Modulo serenazgo Azcarrunz",
+        "name:es": "Modulo serenazgo Azcarrunz",
+        "opening_hours": "24/7",
+        "phone": "+51 1 4582001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0025038,
+          -12.018207
+        ]
+      },
+      "id": "node/4442893991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442897709",
+        "addr:street": "Geodas",
+        "amenity": "police",
+        "name": "Puesto Policial de Auxilio Rápido",
+        "name:es": "Puesto Policial de Auxilio Rápido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9955022,
+          -12.0028757
+        ]
+      },
+      "id": "node/4442897709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442897896",
+        "addr:street": "Avenida Las Flores de Primavera",
+        "amenity": "police",
+        "name": "Modulo de Serenazgo. 10 de las Flores",
+        "name:es": "Modulo de Serenazgo. 10 de las Flores",
+        "opening_hours": "24/7",
+        "phone": "+51 1 4582001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0106517,
+          -12.007966
+        ]
+      },
+      "id": "node/4442897896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442898020",
+        "addr:street": "Avenida Santa Rosa de Lima",
+        "amenity": "police",
+        "name": "Modulo de Serenazgo. Santa Rosa",
+        "name:es": "Modulo de Serenazgo. Santa Rosa",
+        "opening_hours": "24/7",
+        "phone": "+51 1 4582001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9989262,
+          -12.0026241
+        ]
+      },
+      "id": "node/4442898020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444034293",
+        "addr:street": "Ovalo 9 de Octubre",
+        "amenity": "police",
+        "name": "Central Cámara de Video Vigilancia. Serenazgo",
+        "name:es": "Central Cámara de Video Vigilancia. Serenazgo",
+        "opening_hours": "24/7",
+        "phone": "+51 1 4582001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0118648,
+          -12.0322959
+        ]
+      },
+      "id": "node/4444034293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444185291",
+        "amenity": "police",
+        "name": "Modulo Central de Serenazgo",
+        "name:es": "Modulo Central de Serenazgo",
+        "opening_hours": "24/7",
+        "phone": "+51 1 4582001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9989338,
+          -11.9586787
+        ]
+      },
+      "id": "node/4444185291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444225790",
+        "addr:street": "Avenida San Martin de Porres",
+        "amenity": "police",
+        "name": "Modulo de Serenazgo. San Martín",
+        "name:es": "Modulo de Serenazgo. San Martín",
+        "opening_hours": "24/7",
+        "phone": "+51 1 4582001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0035805,
+          -11.9683524
+        ]
+      },
+      "id": "node/4444225790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444870906",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0161298,
+          -12.1161678
+        ]
+      },
+      "id": "node/4444870906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4487686413",
+        "addr:city": "La Molina",
+        "addr:street": "Los Almendros",
+        "amenity": "police",
+        "name": "DEMUNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9585214,
+          -12.0710742
+        ]
+      },
+      "id": "node/4487686413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4495165689",
+        "amenity": "police",
+        "name": "Auxilio Policial Rapido azcarruz alto. Comisaría Zarate",
+        "name:es": "Auxilio Policial Rapido azcarruz alto. Comisaría Zarate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9967578,
+          -12.013052
+        ]
+      },
+      "id": "node/4495165689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4501494014",
+        "addr:city": "Lima",
+        "addr:country": "PE",
+        "addr:housenumber": "889",
+        "addr:street": "Jiron Cuzco",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069061,
+          -12.0898221
+        ]
+      },
+      "id": "node/4501494014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4503251889",
+        "amenity": "police",
+        "name": "Puesto de Auxilio Rápido de la Policia Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9994388,
+          -12.0285562
+        ]
+      },
+      "id": "node/4503251889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507439924",
+        "amenity": "police",
+        "name": "Central de seguridad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0080666,
+          -12.0868803
+        ]
+      },
+      "id": "node/4507439924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510791447",
+        "amenity": "police",
+        "name": "Centro de seguridad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9944681,
+          -12.1001576
+        ]
+      },
+      "id": "node/4510791447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510821067",
+        "addr:city": "San Borja",
+        "amenity": "police",
+        "name": "Centro de Obervación San Borja",
+        "operator": "Municipalida de San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0103451,
+          -12.0985914
+        ]
+      },
+      "id": "node/4510821067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4526521090",
+        "amenity": "police",
+        "name": "Caseta de serenazgo",
+        "name:es": "Caseta de serenazgo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.918351,
+          -11.9921393
+        ]
+      },
+      "id": "node/4526521090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4530597496",
+        "amenity": "police",
+        "name": "Camion volteado",
+        "name:es": "Camion volteado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.186078,
+          -11.7076545
+        ]
+      },
+      "id": "node/4530597496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4544813389",
+        "addr:postcode": "511",
+        "addr:street": "Panamericana Norte",
+        "amenity": "police",
+        "internet_access": "wlan",
+        "name": "SERENAZGO Caseta cuzco",
+        "name:es": "Caseta cuzco Serenazgo",
+        "opening_hours": "24/7",
+        "phone": "+51 1 7263564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.074043,
+          -11.9155385
+        ]
+      },
+      "id": "node/4544813389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4553175289",
+        "addr:street": "Avenida Villa",
+        "amenity": "police",
+        "name": "Caseta Serenazgo Tiwinza",
+        "name:es": "Caseta Serenazgo Tiwinza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1123442,
+          -11.8483486
+        ]
+      },
+      "id": "node/4553175289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4567986076",
+        "addr:city": "La Victoria",
+        "addr:street": "Avenida Paseo de la República",
+        "amenity": "police",
+        "name": "DIRANDRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0286976,
+          -12.0763209
+        ]
+      },
+      "id": "node/4567986076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683999092",
+        "amenity": "police",
+        "name": "Policia",
+        "name:es": "Policia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.104217,
+          -11.9715846
+        ]
+      },
+      "id": "node/4683999092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692757989",
+        "amenity": "police",
+        "name": "Ciudadela chalaca",
+        "name:es": "Ciudadela chalaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1316924,
+          -12.0502996
+        ]
+      },
+      "id": "node/4692757989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4702824089",
+        "addr:city": "San Juan de Miraflores",
+        "addr:postcode": "15029",
+        "addr:street": "Avenida Los Héroes",
+        "amenity": "police",
+        "name": "Seguridad Ciudadana de Serenazgo y Policia Municipal ( Base 1 )",
+        "operator": "Municipalidad de San Juan de Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9801637,
+          -12.1502993
+        ]
+      },
+      "id": "node/4702824089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4799862523",
+        "amenity": "police",
+        "name": "Seguridad Ciudadana",
+        "name:es": "Seguridad Ciudadana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0036779,
+          -12.1206054
+        ]
+      },
+      "id": "node/4799862523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806174023",
+        "amenity": "police",
+        "name": "Seguridad Ciudadana",
+        "name:en": "Seguridad Ciudadana",
+        "name:es": "Seguridad Ciudadana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0116342,
+          -12.1089886
+        ]
+      },
+      "id": "node/4806174023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818236224",
+        "amenity": "police",
+        "name": "Puesto de auxilio rápido",
+        "name:es": "Puesto de auxilio rápido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9688747,
+          -12.0714513
+        ]
+      },
+      "id": "node/4818236224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5207243821",
+        "addr:city": "Breña",
+        "addr:housenumber": "475",
+        "addr:street": "Avenida Bolivia",
+        "amenity": "police",
+        "name": "DIVPOL CENTRO 1",
+        "name:es": "Division policial centro 1",
+        "opening_hours": "24/7",
+        "operator": "Policía Nacional de Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0415164,
+          -12.0564065
+        ]
+      },
+      "id": "node/5207243821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5249043221",
+        "amenity": "police",
+        "name": "Comisaría Mirones Bajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0755569,
+          -12.0367972
+        ]
+      },
+      "id": "node/5249043221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5288063621",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0070731,
+          -12.1139497
+        ]
+      },
+      "id": "node/5288063621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320530376",
+        "amenity": "police",
+        "description": "Gran Comisaría de Jose Galvez",
+        "name": "Comisaría de Jose Galvez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.906522,
+          -12.2077457
+        ]
+      },
+      "id": "node/5320530376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5396965921",
+        "amenity": "police",
+        "name": "Base serenazgo sur centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1318676,
+          -11.8856618
+        ]
+      },
+      "id": "node/5396965921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5449164087",
+        "addr:city": "Cercado de Lima",
+        "addr:housenumber": "876",
+        "addr:state": "Lima",
+        "addr:street": "Jirón Huallaga",
+        "amenity": "police",
+        "name": "DIRINCRI Cercado",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "operator:wikipedia": "es:Policía Nacional del Perú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0233754,
+          -12.0512321
+        ]
+      },
+      "id": "node/5449164087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810743065",
+        "amenity": "police",
+        "name": "DIVINCRI Carabayllo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0322115,
+          -11.9019459
+        ]
+      },
+      "id": "node/5810743065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6986082087",
+        "amenity": "police",
+        "name": "Comisaría Nueva Esperanza",
+        "operator": "Ministerio del Interior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9287312,
+          -12.1694379
+        ]
+      },
+      "id": "node/6986082087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7125383823",
+        "amenity": "police",
+        "name": "Comisaría PNP Lurín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8692608,
+          -12.2736549
+        ]
+      },
+      "id": "node/7125383823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7393015988",
+        "amenity": "police",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.161,
+          -11.8172337
+        ]
+      },
+      "id": "node/7393015988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7563891378",
+        "addr:city": "San Isidro",
+        "addr:housenumber": "2075",
+        "addr:neighbourhood": "Orrantía del Mar",
+        "addr:street": "Avenida Augusto Pérez Aranibar",
+        "amenity": "police",
+        "name": "Comisaría PNP Orrantía del Mar",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0571457,
+          -12.104502
+        ]
+      },
+      "id": "node/7563891378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8547110884",
+        "addr:city": "Pachacámac",
+        "addr:housenumber": "521",
+        "addr:street": "Jirón Castilla",
+        "amenity": "police",
+        "name": "Comisaría PNP Pachacámac",
+        "opening_hours": "24/7",
+        "operator": "MININTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.858443,
+          -12.2277687
+        ]
+      },
+      "id": "node/8547110884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10559779741",
+        "amenity": "police",
+        "name": "Departamento Especial de Turismo Lima-Norte",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0406411,
+          -12.0574031
+        ]
+      },
+      "id": "node/10559779741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10560060423",
+        "addr:housenumber": "323",
+        "addr:street": "Avenida España",
+        "amenity": "police",
+        "email": "dirincri.ceopol@policia.gob.pe",
+        "name": "Dirección de Investigación Criminal",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRINCRI PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039966,
+          -12.058539
+        ]
+      },
+      "id": "node/10560060423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10560060424",
+        "addr:housenumber": "323",
+        "addr:street": "Avenida España",
+        "amenity": "police",
+        "email": "dirila.ceopol@policia.gob.pe",
+        "name": "Dirección de Investigación de Lavado de Activos",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRILA PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0396531,
+          -12.0585222
+        ]
+      },
+      "id": "node/10560060424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10560060425",
+        "addr:housenumber": "323",
+        "addr:street": "Avenida España",
+        "amenity": "police",
+        "email": "dirctptim.ceopol@policia.gob.pe",
+        "name": "Dirección Contra la Trata de Personas y Tráfico Ilicito de Migrantes",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRCTPTIM PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0396712,
+          -12.0581991
+        ]
+      },
+      "id": "node/10560060425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10560206453",
+        "amenity": "police",
+        "name": "Fondo de Vivienda Policial",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "FOVIPOL PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0340804,
+          -12.0358626
+        ]
+      },
+      "id": "node/10560206453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10560206455",
+        "addr:housenumber": "191",
+        "addr:street": "Los Cibeles",
+        "amenity": "police",
+        "email": "dirseest.ceopol@pnp.gob.pe",
+        "name": "Dirección de Seguridad de Estado",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRSEEST PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0319496,
+          -12.0344253
+        ]
+      },
+      "id": "node/10560206455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10560244775",
+        "addr:street": "Los Cibeles",
+        "amenity": "police",
+        "email": "dirseint.ceopol@policia.gob.pe",
+        "name": "Dirección de Seguridad Integral",
+        "operator": "Policía Nacional del Perú",
+        "operator:wikidata": "Q6320215",
+        "short_name": "DIRSEINT PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0323861,
+          -12.0339175
+        ]
+      },
+      "id": "node/10560244775"
+    }
+  ]
+}
